@@ -1,0 +1,551 @@
+ID_RG;date;environ_type;delimitation;ruderal;ornamental;recent_manag;manag_level;garbage;n_sample;plot_ID;plot;cover_percent;S;sp_cod;abund;cover_sp;species_name;powo_species_name;status_GRIIS;status_FLORABR;status_FLORASP;status_Michelle;final_status;status;Endemismo;threat_status_MMA_2022;threat_status_SP_2016;brazilian_common_name;type;biogeo_origin;cycle
+21;25/mar;traffic_circle;1;1;1;1;4;0;5;21_3;3;18;6;sp4_213;1;;Aglaonema nitidum;Aglaonema nitidum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;malésia;ornamental;exotic;
+51;03/abr;sidewalk;1;0;1;1;3;0;4;51_1;1;65;5;sp1_511;1;;Alcantarea imperialis;Alcantarea imperialis;not_present;native;native_BR;0;native_BR;native;Endemic;VU;#N/D;bromélia;ruderal;native;
+121;10/abr;sidewalk;1;1;1;1;4;0;5;121_1;1;30;4;sp1_1211;1;;Allamanda cathartica;Allamanda cathartica;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;alamanda amarela;ornamental;native;
+8;20/mar;sidewalk;1;1;1;1;4;0;4;8_1;1;65;3;sp3_81;1;;Alocasia cucullata;Alocasia cucullata;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;orelha-de-elefante;ornamental;exotic;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp9_84;1;;Alocasia cucullata;Alocasia cucullata;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;orelha-de-elefante;ornamental;exotic;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp2_94;5;;Alternanthera brasiliana;Alternanthera brasiliana;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;penicilina;ornamental ;native;
+58;27/mar;square;1;0;1;1;3;1;6;58_1;1;100;4;sp1_581;12;;Alternanthera brasiliana;Alternanthera brasiliana;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;penicilina;ornamental;native;
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp5_102;9;;Alternanthera sessilis;Alternanthera sessilis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;periquito-séssil;ruderal;native;
+22;03/abr;square;1;0;0;0;1;0;6;22_4;4;100;6;sp4_224;14;;Alternanthera sessilis;Alternanthera sessilis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;periquito-séssil;ruderal;native;
+22;03/abr;square;1;0;0;0;1;0;6;22_6;6;90;6;sp4_226;4;;Alternanthera sessilis;Alternanthera sessilis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;periquito-séssil;ruderal;native;
+33;08/abr;planting_bed;1;0;0;0;1;0;5;33_5;5;40;6;sp1_335;2;;Alternanthera sessilis;Alternanthera sessilis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;periquito-séssil;ruderal;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_2;2;100;6;sp4_442;6;;Alternanthera sessilis;Alternanthera sessilis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;periquito-séssil;ruderal;native;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp1_82;8;;Amaranthus spinosus;Amaranthus spinosus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;bredo-bravo;ruderal;naturalized;
+8;20/mar;sidewalk;1;0;1;1;3;0;4;8_3;3;25;5;sp2_83;2;;Amaranthus tricolor;Amaranthus tricolor;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;amaranto;ornamental;cultivated;
+3;13/mar;sidewalk;1;0;1;0;2;0;4;3_1;1;100;6;sp4_31;1;;Amaranthus viridis;Amaranthus viridis;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;bredo;ruderal;naturalized;
+24;06/abr;sidewalk;0;0;0;0;0;0;4;24_1;1;15;5;sp3_241;1;;Amaranthus viridis;Amaranthus viridis;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;bredo;ruderal;naturalized;
+28;26/mar;sidewalk;1;0;0;0;1;1;6;28_2;2;35;5;sp2_282;10;;Amaranthus viridis;Amaranthus viridis;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;bredo;ruderal;naturalized;
+34;07/abr;sidewalk;1;0;1;0;2;0;5;34_2;2;57;6;sp1_342;1;;Amaranthus viridis;Amaranthus viridis;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;bredo;ruderal;naturalized;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp5_586;6;;Amaranthus viridis;Amaranthus viridis;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;bredo;ruderal;naturalized;
+44;25/mar;planting_bed;1;0;0;0;1;0;5;44_1;1;75;6;sp5_441;2;;Anthephora hermaphrodita;Anthephora hermaphrodita;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_2;2;100;6;sp2_442;3;;Anthephora hermaphrodita;Anthephora hermaphrodita;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+3;13/mar;sidewalk;1;0;1;0;2;0;4;3_1;1;100;6;sp1_31;;100;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama amendoim;ornamental;native;perennial
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_3;3;50;7;sp6_123;;5;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_1;1;95;4;sp1_141;;85;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_3;3;78;5;sp1_143;;60;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_9;9;100;3;sp1_149;;100;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+21;25/mar;sidewalk;1;0;1;1;3;0;5;21_5;5;100;5;sp1_215;;90;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+25;06/abr;sidewalk;1;1;1;1;4;0;4;25_2;2;100;2;sp1_252;;45;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+26;04/abr;sidewalk;1;1;1;1;4;0;4;26_1;1;40;1;sp1_261;;40;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+29;26/mar;sidewalk;1;0;1;1;3;0;5;29_4;4;95;4;sp2_294;;50;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+28;26/mar;sidewalk;1;1;1;1;4;0;6;28_4;4;100;1;sp1_284;;100;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+31;26/mar;sidewalk;1;1;1;1;4;0;5;31_3;3;80;3;sp2_313;;20;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_3;3;85;2;sp1_323;;85;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+32;10/abr;sidewalk;1;1;1;0;3;1;5;32_4;4;58;1;sp1_321;;58;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+32;10/abr;sidewalk;0;0;1;1;2;0;5;32_5;5;90;4;sp3_325;;30;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+34;07/abr;planting_bed;1;0;1;1;3;0;5;34_5;5;90;3;sp1_345;;80;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+35;08/abr;square;0;1;1;0;2;1;5;35_5;5;100;2;sp1_355;;100;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+45;11/abr;sidewalk;1;1;1;1;4;0;6;45_5;5;50;1;sp1_455;;50;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+45;11/abr;sidewalk;1;1;1;1;4;0;6;45_6;6;55;2;sp2_456;;25;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+50;11/abr;planting_bed;1;0;1;1;3;0;4;50_1;1;45;5;sp2_501;;3;Arachis repens;Arachis repens;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;grama-amendoim;ornamental;native;perennial
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp1_122;1;;Asclepias curassavica;Asclepias curassavica;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-rato;ornamental;native;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp2_145;3;;Asclepias curassavica;Asclepias curassavica;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-rato;ornamental;native;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp6_2295;1;;Asparagus aethiopicus;Asparagus aethiopicus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;aspargo-alfinete;ornamental;cultivated;
+21;25/mar;traffic_circle;1;1;1;1;4;0;5;21_3;3;18;6;sp3_213;1;;Asplundia utilis;Asplundia utilis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;-;ornamental;cultivated;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_1;1;95;4;sp4_141;1;;Axonopus compressus;Axonopus compressus;alien;native;native;0;native;native;not endemic;#N/D;#N/D;grama-são-carlos;ruderal;native;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp7_586;;25;Axonopus compressus;Axonopus compressus;alien;native;native;0;native;native;not endemic;#N/D;#N/D;grama-são-carlos;ornamental;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_4;4;30;6;sp3_1244;;15;Axonopus compressus;Axonopus compressus;alien;native;native;0;native;native;not endemic;#N/D;#N/D;grama-são-carlos;ornamental;native;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp5_71;16;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+7;23/mar;square;1;0;1;1;3;0;5;7_4;4;75;5;sp4_74;35;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp2_82;4;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+12;28/mar;sidewalk;0;0;0;0;0;1;9;12_5;5;30;6;sp1_125;16;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_4;4;27;4;sp3_144;2;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp8_145;1;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+22;03/abr;square;1;0;1;0;2;0;6;22_3;3;98;6;sp4_223;1;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+22;03/abr;square;1;0;0;0;1;0;6;22_4;4;100;6;sp1_224;11;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp1_251;12;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+26;04/abr;sidewalk;0;0;0;0;0;1;4;26_2;2;27;3;sp3_262;1;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_3;3;48;7;sp3_293;4;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+34;07/abr;planting_bed;1;0;1;1;3;0;5;34_4;4;20;5;sp4_344;3;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+37;07/abr;square;1;0;1;1;3;0;5;37_3;3;18;4;sp3_373;2;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+51;03/abr;sidewalk;1;0;1;1;3;0;4;51_1;1;65;5;sp3_511;9;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_2;2;8;3;sp1_1212;1;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_3;3;20;5;sp3_1213;1;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_2;2;60;8;sp5_1242;1;;Bidens pilosa;Bidens pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-preto;ruderal;native;
+29;26/mar;square;1;1;1;1;4;0;5;29_1;1;15;5;sp2_291;1;;Brasiliopuntia brasiliensis;Brasiliopuntia brasiliensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;cacto-palma;ornamental;native;
+25;06/abr;sidewalk;1;0;0;1;2;0;4;25_3;3;40;6;sp3_253;3;;Bromus catharticus;Bromus catharticus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;cevadilha;ruderal;native;perennial
+33;08/abr;planting_bed;1;0;0;0;1;0;5;33_5;5;40;6;sp4_335;1;;Bromus catharticus;Bromus catharticus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;cevadilha;ruderal;native;perennial
+35;08/abr;square;1;0;0;0;1;1;5;35_4;4;25;4;sp3_354;1;;Bromus catharticus;Bromus catharticus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;cevadilha;ruderal;native;perennial
+10;23/mar;sidewalk;1;1;1;1;4;0;5;10_4;4;38;3;sp2_104;1;;Bulbine frutescens;Bulbine frutescens;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;cebolinha-de-flor;ornamental;exotic;
+29;26/mar;sidewalk;1;0;1;1;3;0;5;29_4;4;95;4;sp1_294;1;;Buxus sempervirens;Buxus sempervirens;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;buxinho;ornamental;cultivated;
+31;26/mar;square;1;0;1;1;3;0;5;31_5;5;40;4;sp1_315;1;;Buxus sempervirens;Buxus sempervirens;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;buxinho;ornamental;cultivated;
+10;23/mar;square;1;0;0;0;1;0;5;10_1;1;50;8;sp2_101;;12;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp4_102;;2;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_3;3;78;5;sp4_143;;5;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+22;03/abr;square;1;0;0;0;1;0;6;22_6;6;90;6;sp3_226;;60;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp2_311;;3;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+33;08/abr;traffic_circle;1;0;0;0;1;0;5;33_1;1;100;3;sp2_331;;45;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+34;07/abr;sidewalk;1;0;0;1;2;1;5;34_3;3;15;5;sp2_343;;3;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp3_445;;8;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+124;09/abr;square;1;0;0;0;1;0;5;124_2;2;60;8;sp3_1242;;20;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+124;09/abr;square;1;0;0;0;1;0;5;124_3;3;38;5;sp3_1243;;15;Calyptocarpus vialis;Calyptocarpus vialis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-cinderela;ruderal;introduced;
+14;14/mar;garden;1;0;1;1;3;1;9;14_7;7;98;6;sp1_147;1;;Canna x hybrida;Canna x hybrida;#N/D;cultivated;cultivated;#N/D;cultivated;exotic;not endemic;#N/D;#N/D;bananeirinha-de-jardim;ornamental;cultivated;
+25;06/abr;traffic_circle;1;0;0;1;2;0;4;25_4;4;40;5;sp1_254;3;;Canna x hybrida;Canna x hybrida;#N/D;cultivated;cultivated;#N/D;cultivated;exotic;not endemic;#N/D;#N/D;cana-da-índia;ornamental;cultivated;
+58;27/mar;sidewalk;1;0;1;0;2;1;6;58_2;2;35;4;sp3_582;2;;Canna x hybrida;Canna x hybrida;#N/D;cultivated;cultivated;#N/D;cultivated;exotic;not endemic;#N/D;#N/D;cana-da-índia;ornamental;cultivated;
+4;13/mar;sidewalk;1;0;1;0;2;0;4;4_3;3;50;7;sp1_43;3;;Canna x hybrida;Canna x hybrida;#N/D;cultivated;cultivated;#N/D;cultivated;exotic;not endemic;#N/D;#N/D;cana-do-brejo;ornamental;cultivated;
+8;20/mar;sidewalk;1;0;1;1;3;0;4;8_3;3;25;5;sp3_83;3;;Catharanthus roseus;Catharanthus roseus;not_present;cultivated;cultivated;Non-native;cultivated;exotic;not endemic;#N/D;#N/D;maria-sem-vergonha;ornamental;naturalized;
+37;07/abr;sidewalk;1;0;1;1;3;0;5;37_4;4;50;4;sp3_374;2;;Catharanthus roseus;Catharanthus roseus;not_present;cultivated;cultivated;Non-native;cultivated;exotic;not endemic;#N/D;#N/D;vinca;ornamental;exotic;
+3;13/mar;sidewalk;1;0;1;1;3;0;4;3_3;3;50;7;sp7_33;2;;Chaptalia nutans;Chaptalia nutans;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;língua-de-vaca;ruderal;native;
+28;26/mar;sidewalk;0;0;0;0;0;0;6;28_6;6;50;5;sp2_286;1;;Chaptalia nutans;Chaptalia nutans;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;língua-de-vaca;ruderal;native;
+28;26/mar;sidewalk;1;0;1;1;3;1;6;28_1;1;70;6;sp2_281;4;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;clorofito;ornamental;cultivated;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp4_311;2;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;clorofito;ornamental;cultivated;
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_2;2;100;5;sp2_322;27;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;clorofito;ornamental;cultivated;
+33;08/abr;sidewalk;1;1;1;1;4;0;5;33_3;3;60;2;sp1_333;1;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;clorofito;ornamental;cultivated;
+44;25/mar;square;1;0;1;0;2;0;5;44_3;3;45;2;sp1_443;3;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;dianela;ornamental;cultivated;
+102;04/abr;sidewalk;1;0;1;1;3;1;4;102_2;2;60;3;sp1_1022;16;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;clorofito;ornamental;cultivated;
+102;04/abr;sidewalk;1;0;1;1;3;1;4;102_3;3;20;5;sp3_1023;3;;Chlorophytum comosum;Chlorophytum comosum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;clorofito;ornamental;cultivated;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp8_94;1;;Chrysanthemum indicum;Chrysanthemum indicum;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;crisântemo;ornamental;exotic;
+28;26/mar;sidewalk;0;0;0;0;0;0;6;28_6;6;50;5;sp3_286;1;;Cissus verticillata;Cissus verticillata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;insulina;ornamental;native;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp3_145;1;;Clusia fluminensis;Clusia fluminensis;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;clusia;ornamental;native;
+21;25/mar;square;1;0;1;1;3;0;5;21_1;1;95;5;sp3_211;1;;Clusia fluminensis;Clusia fluminensis;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;clusia;ornamental;native;
+29;26/mar;square;1;1;1;1;4;0;5;29_1;1;15;5;sp1_281;1;;Codiaeum variegatum;Codiaeum variegatum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;cróton;ornamental;cultivated;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp1_295;;25;Coleus comosus;Coleus comosus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;boldo-do-chile;ornamental;exotic;
+28;26/mar;sidewalk;0;0;0;0;0;0;6;28_6;6;50;5;sp4_586;;8;Coleus comosus;Coleus comosus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;boldo-do-chile;ornamental;exotic;
+4;13/mar;sidewalk;1;0;1;1;3;0;4;4_2;2;60;5;sp5_42;;55;Coleus decurrens;Coleus decurrens;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coléus;ornamental ;exotic;
+8;20/mar;sidewalk;1;1;1;1;4;0;4;8_1;1;65;3;sp1_81;;50;Coleus decurrens;Coleus decurrens;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coléus;ornamental ;exotic;
+37;07/abr;sidewalk;1;1;1;1;4;0;5;37_1;1;38;3;sp2_371;1;;Coleus scutellarioides;Coleus scutellarioides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coração-magoado;ornamental;exotic;
+7;23/mar;square;1;0;1;1;3;0;5;7_4;4;75;5;sp3_74;2;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+7;23/mar;square;1;0;1;1;3;0;5;7_5;5;12;4;sp2_75;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp7_84;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+10;23/mar;square;1;0;0;0;1;0;5;10_1;1;50;8;sp3_101;4;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp3_102;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_1;1;95;4;sp2_141;5;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+24;06/abr;sidewalk;1;0;1;1;3;0;4;24_2;2;80;4;sp4_242;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp8_295;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+33;08/abr;planting_bed;1;0;1;1;3;0;5;33_2;2;27;3;sp1_332;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+33;08/abr;sidewalk;1;0;0;1;2;0;5;33_4;4;12;2;sp2_334;6;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+35;08/abr;sidewalk;0;0;0;0;0;1;5;35_1;1;55;3;sp2_351;4;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+37;07/abr;square;1;0;1;1;3;0;5;37_3;3;18;4;sp1_373;3;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+37;07/abr;sidewalk;1;0;1;1;3;0;5;37_4;4;50;4;sp2_374;2;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+44;25/mar;planting_bed;1;0;0;0;1;0;5;44_1;1;75;6;sp6_441;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp4_445;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+50;11/abr;square;1;0;0;0;1;0;4;50_2;2;38;7;sp1_502;3;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+102;04/abr;square;1;0;1;0;2;1;4;102_4;4;30;5;sp2_1024;3;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_3;3;20;5;sp1_1213;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+125;09/abr;sidewalk;0;0;0;0;0;0;4;125_1;1;27;6;sp4_1251;1;;Commelina erecta;Commelina erecta;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp3_71;2;;Condylostylis candida;Condylostylis candida;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;-;ornamental;native;
+4;13/mar;sidewalk;1;0;1;0;2;0;4;4_3;3;50;7;sp6_43;1;;Conyza bonariensis;Erigeron bonariensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;buva;ruderal;native;annual 
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_3;3;50;7;sp5_123;5;;Cordyline terminalis;Cordyline fruticosa;alien;cultivated;cultivated;Non-native;naturalized;exotic;#N/D;#N/D;#N/D;dracena;ornamental;cultivated;
+28;26/mar;sidewalk;1;0;1;1;3;1;6;28_1;1;70;6;sp1_281;2;;Cordyline terminalis;Cordyline fruticosa;alien;cultivated;cultivated;Non-native;naturalized;exotic;#N/D;#N/D;#N/D;dracena;ornamental;cultivated;
+3;13/mar;sidewalk;1;1;1;1;4;0;4;3_2;2;30;2;sp1_32;4;;Cosmos sulphureus;Cosmos sulphureus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;cosmos-amarelo;ornamental;naturalized;
+8;20/mar;sidewalk;1;0;1;1;3;0;4;8_3;3;25;5;sp1_83;1;;Cosmos sulphureus;Cosmos sulphureus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;cosmos-amarelo;ornamental;naturalized;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp1_84;4;;Cosmos sulphureus;Cosmos sulphureus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;cosmos-amarelo;ornamental;naturalized;
+37;07/abr;traffic_circle;1;0;1;0;2;0;5;37_5;5;48;5;sp4_375;5;;Cosmos sulphureus;Cosmos sulphureus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;cosmos;ornamental;naturalized;
+21;25/mar;traffic_circle;1;1;1;1;4;0;5;21_3;3;18;6;sp6_213;1;;Costus spiralis;Costus spiralis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;cana-do-brejo;ornamental;native;
+24;06/abr;sidewalk;1;0;1;1;3;0;4;24_2;2;80;4;sp1_242;2;;Costus spiralis;Costus spiralis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;cana-do-brejo;ornamental;native;
+25;06/abr;sidewalk;1;0;0;1;2;0;4;25_3;3;40;6;sp5_253;2;;Youngia japonica;Youngia japonica;alien;naturalized;naturalized;0;naturalized;exotic;#N/D;#N/D;#N/D;alface do brejo;ruderal;invasive;
+33;08/abr;planting_bed;1;0;1;1;3;0;5;33_2;2;27;3;sp3_332;1;;Youngia japonica;Youngia japonica;alien;naturalized;naturalized;0;naturalized;exotic;#N/D;#N/D;#N/D;dente-de-leão;ruderal;exotic;
+25;06/abr;sidewalk;1;1;1;1;4;0;4;25_2;2;100;2;sp2_252;;55;Ctenanthe setosa;Ctenanthe setosa;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;maranta-variegata;ornamental;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_3;3;38;5;sp4_1243;2;;Cuphea ericoides;Cuphea ericoides;not_present;native;native_BR;0;native_BR;native;Endemic;#N/D;#N/D;-;ruderal;native;
+125;09/abr;sidewalk;0;0;1;0;1;0;4;125_3;3;35;4;sp4_1253;1;;Cycas thouarsii;Cycas thouarsii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;cycas;ornamental;cultivated;
+58;27/mar;square;1;0;1;1;3;1;6;58_1;1;100;4;sp3_581;2;;Cymbopogon citratus;Cymbopogon citratus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-limão;ornamental;naturalized;
+3;13/mar;sidewalk;1;0;1;1;3;0;4;3_3;3;50;7;sp2_33;;40;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+9;20/mar;planting_bed;1;0;1;1;3;0;4;9_1;1;15;4;sp4_91;;2;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+9;20/mar;sidewalk;0;0;1;0;1;0;4;9_3;3;18;2;sp3_93;;6;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp9_94;;5;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+12;28/mar;traffic_circle;1;0;1;1;3;0;9;12_1;1;97;3;sp1_121;;65;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp6_122;;50;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_3;3;50;7;sp1_123;;20;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+12;28/mar;sidewalk;0;0;0;0;0;1;9;12_5;5;30;6;sp3_125;;8;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+14;14/mar;sidewalk;1;0;0;1;2;0;9;14_2;2;75;5;sp3_142;;40;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp4_145;;8;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+14;14/mar;garden;1;0;1;1;3;1;9;14_7;7;98;6;sp3_147;;80;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_8;8;100;3;sp2_148;;90;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+22;03/abr;square;1;0;1;0;2;0;6;22_3;3;98;6;sp6_223;;8;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+25;06/abr;traffic_circle;1;0;0;1;2;0;4;25_4;4;40;5;sp2_254;;50;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+28;26/mar;sidewalk;1;0;0;0;1;1;6;28_2;2;35;5;sp5_282;;5;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp9_311;;40;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+37;07/abr;traffic_circle;1;0;1;0;2;0;5;37_5;5;48;5;sp2_375;;5;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;naturalized;
+44;25/mar;square;1;0;0;0;1;0;5;44_2;2;100;6;sp3_442;;5;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;naturalized;
+44;25/mar;square;1;0;1;0;2;0;5;44_3;3;45;2;sp2_443;;3;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;naturalized;
+44;25/mar;square;1;0;0;0;1;0;5;44_4;4;15;5;sp2_444;;2;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;naturalized;
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp8_445;;4;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;naturalized;
+45;11/abr;sidewalk;1;1;1;1;4;0;6;45_6;6;55;2;sp1_456;;30;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+50;11/abr;planting_bed;1;0;1;1;3;0;4;50_1;1;45;5;sp4_501;;20;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_4;4;45;1;sp1_1214;;45;Cynodon dactylon;Cynodon dactylon;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;grama-paulista;ruderal;invasive;
+4;13/mar;sidewalk;1;0;1;0;2;0;4;4_3;3;50;7;sp5_43;16;;Cyperus eragrostis;Cyperus eragrostis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca;ruderal;native;
+14;14/mar;sidewalk;1;0;0;1;2;0;9;14_2;2;75;5;sp1_142;10;;Cyperus surinamensis;Cyperus surinamensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;junquinha;ruderal;native;
+21;25/mar;square;1;0;1;1;3;0;5;21_1;1;95;5;sp2_211;;4;Desmodium incanum;Desmodium incanum;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;pega-pega;ruderal;naturalized;
+50;11/abr;planting_bed;1;0;1;1;3;0;4;50_1;1;45;5;sp3_501;;5;Desmodium incanum;Desmodium incanum;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;pega-pega;ruderal;naturalized;
+34;07/abr;sidewalk;1;1;1;1;4;0;5;34_1;1;30;7;sp4_341;1;;Dieffenbachia seguine;Dieffenbachia seguine;alien;native;native_BR;Non-native;native_BR;native;not endemic;#N/D;#N/D;comigo-ninguém-pode;ornamental;native;
+51;03/abr;sidewalk;1;0;1;1;3;1;4;51_4;4;25;6;sp1_514;3;;Dietes bicolor;Dietes bicolor;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia;ornamental;cultivated;
+45;11/abr;planting_bed;1;0;1;1;4;0;6;45_2;2;70;5;sp2_452;10;;Dietes grandiflora;Dietes grandiflora;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia;ornamental;cultivated;
+45;11/abr;planting_bed;1;1;1;1;4;0;6;45_4;4;98;2;sp2_454;;23;Dietes grandiflora;Dietes grandiflora;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia;ornamental;cultivated;
+4;13/mar;square;1;1;1;1;4;0;4;4_4;4;53;2;sp1_44;7;;Dietes iridioides;Dietes iridioides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia-branca;ornamental;cultivated;
+10;23/mar;square;1;1;1;0;3;1;5;10_5;5;40;1;sp1_105;2;;Dietes iridioides;Dietes iridioides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia-branca;ornamental;cultivated;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_8;8;100;4;sp1_128;1;;Dietes iridioides;Dietes iridioides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia-branca;ornamental;cultivated;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_4;4;27;4;sp1_144;7;;Dietes iridioides;Dietes iridioides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia-branca;ornamental;cultivated;
+58;27/mar;sidewalk;1;1;1;1;4;1;6;58_4;4;100;4;sp2_584;3;;Dietes iridioides;Dietes iridioides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;moréia-branca;ornamental;cultivated;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp7_71;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+7;23/mar;sidewalk;0;0;0;0;0;0;5;7_3;3;60;5;sp3_73;5;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp4_82;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp2_84;5;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp5_94;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp9_102;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp8_122;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_1;1;95;4;sp3_141;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_3;3;78;5;sp2_143;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+24;06/abr;sidewalk;0;0;0;0;0;0;4;24_1;1;15;5;sp1_241;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_3;3;48;7;sp4_293;5;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+28;26/mar;sidewalk;1;0;1;1;3;1;6;28_1;1;70;6;sp6_281;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+28;26/mar;planting_bed;1;1;1;1;4;0;6;28_3;3;70;3;sp3_283;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+33;08/abr;planting_bed;1;0;0;0;1;0;5;33_5;5;40;6;sp5_335;4;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+34;07/abr;sidewalk;1;0;0;1;2;1;5;34_3;3;15;5;sp1_343;16;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+35;08/abr;planting_bed;1;0;1;0;2;1;5;35_3;3;35;7;sp2_353;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+37;07/abr;traffic_circle;1;0;1;1;3;0;5;37_2;2;75;3;sp3_372;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+37;07/abr;square;1;0;1;1;3;0;5;37_3;3;18;4;sp4_373;1;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+51;03/abr;sidewalk;1;0;1;1;3;0;4;51_1;1;65;5;sp5_511;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_3;3;55;5;sp2_583;3;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+58;27/mar;sidewalk;1;1;1;1;4;1;6;58_4;4;100;4;sp1_584;2;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+121;10/abr;sidewalk;0;0;1;0;1;0;5;121_5;5;80;3;sp2_1215;7;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+125;09/abr;sidewalk;0;0;1;0;1;0;4;125_3;3;35;4;sp1_1253;10;;Digitaria ciliaris;Digitaria ciliaris;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-colchão;ruderal;naturalized;annual 
+14;14/mar;sidewalk;1;0;0;1;2;0;9;14_2;2;75;5;sp4_142;3;;Digitaria insularis;Digitaria insularis;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim amargoso;ruderal;naturalized;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_3;3;48;7;sp1_293;1;;Digitaria insularis;Digitaria insularis;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim amargoso;ruderal;naturalized;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp2_71;1;;Dracaena braunii;Dracaena braunii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;bambu-da-sorte;ornamental;exotic;
+3;13/mar;sidewalk;1;0;1;1;3;0;4;3_3;3;50;7;sp4_33;;10;Drymaria cordata;Drymaria cordata;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;erva-coração;ruderal;invasive;
+44;25/mar;square;1;0;0;0;1;0;5;44_4;4;15;5;sp5_444;;9;Drymaria cordata;Drymaria cordata;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;erva-coração;ruderal;invasive;
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_1;1;20;2;sp1_321;1;;Duranta erecta;Duranta erecta;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;pingo-de-ouro;ornamental;naturalized;
+33;08/abr;sidewalk;1;1;1;1;4;0;5;33_3;3;60;2;sp2_333;2;;Duranta erecta;Duranta erecta;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;pingo-de-ouro;ornamental;naturalized;
+50;11/abr;sidewalk;1;1;1;1;4;0;4;50_3;3;30;1;sp1_503;3;;Duranta erecta;Duranta erecta;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;pingo-de-ouro;ornamental;naturalized;
+51;03/abr;sidewalk;1;1;1;1;4;0;4;51_3;3;48;2;sp1_513;2;;Duranta erecta;Duranta erecta;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;pingo-de-ouro;ornamental;naturalized;
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_2;2;100;5;sp3_322;1;;Dypsis lutescens;Chrysalidocarpus lutescens;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;palmeira areca-bambu;ornamental;cultivated;
+4;13/mar;sidewalk;1;0;1;0;2;0;4;4_3;3;50;7;sp4_43;2;;Eclipta prostrata;Eclipta prostrata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-botão;ruderal;native;perennial
+7;23/mar;sidewalk;0;0;0;0;0;0;5;7_3;3;60;5;sp4_73;1;;Eclipta prostrata;Eclipta prostrata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva botão;ruderal;exotic;perennial
+124;09/abr;square;1;0;0;0;1;0;5;124_4;4;30;6;sp4_1244;7;;Elephantopus elatus;Elephantopus elatus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;erva-de-colégio;ruderal;exotic;
+10;23/mar;square;1;0;0;0;1;0;5;10_1;1;50;8;sp7_101;3;;Elephantopus elatus;Elephantopus elatus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;pé-de-elefante;ruderal;native;
+44;25/mar;planting_bed;1;0;0;0;1;0;5;44_1;1;75;6;sp1_441;;50;Elephantopus mollis;Elephantopus mollis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-veado;ruderal;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_2;2;100;6;sp1_442;1;;Elephantopus mollis;Elephantopus mollis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-veado;ruderal;native;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp8_82;7;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp6_102;4;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+10;23/mar;square;1;0;0;0;1;0;5;10_3;3;85;6;sp1_103;30;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_3;3;78;5;sp5_143;5;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp7_145;2;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+22;03/abr;square;1;0;1;0;2;0;6;22_3;3;98;6;sp3_223;2;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+28;26/mar;sidewalk;1;0;0;0;1;1;6;28_2;2;35;5;sp3_282;7;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_2;2;100;5;sp5_322;2;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+35;08/abr;sidewalk;0;0;0;0;0;1;5;35_1;1;55;3;sp1_351;6;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+50;11/abr;traffic_circle;1;0;1;1;3;0;4;50_4;4;38;6;sp5_504;3;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+51;03/abr;sidewalk;1;0;1;1;3;1;4;51_4;4;25;6;sp2_514;;12;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+58;27/mar;square;1;0;1;1;3;1;6;58_1;1;100;4;sp2_581;1;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_2;2;8;3;sp3_1212;3;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+125;09/abr;sidewalk;0;0;0;0;0;0;4;125_1;1;27;6;sp6_1251;1;;Eleusine indica;Eleusine indica;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-pé-de-galinha;ruderal;invasive;annual 
+50;11/abr;planting_bed;1;0;1;1;3;0;4;50_1;1;45;5;sp5_501;1;;Emilia fosbergii;Emilia fosbergii;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;falsa-serralha;ruderal;naturalized;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_4;4;100;5;sp3_124;1;;Emilia fosbergii;Emilia fosbergii;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;falsa-serralha;ruderal ;naturalized;
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp5_251;2;;Emilia fosbergii;Emilia fosbergii;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;falsa-serralha;ruderal;naturalized;
+102;04/abr;sidewalk;1;0;1;1;3;1;4;102_3;3;20;5;sp1_1023;1;;Epipremnum pinnatum;Epipremnum pinnatum;alien;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;jiboia;ornamental;cultivated;
+24;06/abr;sidewalk;1;0;1;1;3;0;4;24_2;2;80;4;sp3_242;2;;Eragrostis airoides;Eragrostis airoides;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;capim-chorão;ruderal;native;
+9;20/mar;square;1;0;0;0;1;0;4;9_2;2;28;3;sp3_92;4;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+9;20/mar;sidewalk;0;0;1;0;1;0;4;9_3;3;18;2;sp2_93;1;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+10;23/mar;square;1;0;0;0;1;0;5;10_3;3;85;6;sp2_103;5;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_6;6;80;2;sp2_146;3;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_8;8;100;3;sp3_148;3;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+25;06/abr;sidewalk;1;0;0;1;2;0;4;25_3;3;40;6;sp6_253;3;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+26;04/abr;sidewalk;0;0;0;0;0;1;4;26_2;2;27;3;sp1_262;6;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+34;07/abr;sidewalk;1;0;1;0;2;0;5;34_2;2;57;6;sp5_342;1;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+50;11/abr;traffic_circle;1;0;1;1;3;0;4;50_4;4;38;6;sp1_504;10;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+121;10/abr;sidewalk;0;0;1;0;1;0;5;121_5;5;80;3;sp3_1215;1;;Eragrostis pilosa;Eragrostis pilosa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;capim-mimoso;ruderal ;naturalized;
+31;26/mar;sidewalk;0;0;0;0;0;0;5;31_4;4;60;6;sp6_314;1;;Euphorbia heterophylla;Euphorbia heterophylla;alien;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;amendoim-brabo;ruderal;native;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_3;3;50;7;sp3_123;3;;Euphorbia hirta;Euphorbia hirta;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+12;28/mar;sidewalk;0;0;0;0;0;1;9;12_5;5;30;6;sp6_125;3;;Euphorbia hirta;Euphorbia hirta;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+28;26/mar;planting_bed;1;1;1;1;4;0;6;28_3;3;70;3;sp2_283;1;;Euphorbia hirta;Euphorbia hirta;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+31;26/mar;sidewalk;0;0;0;0;0;0;5;31_4;4;60;6;sp4_314;1;;Euphorbia hirta;Euphorbia hirta;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+45;11/abr;planting_bed;1;0;1;1;4;0;6;45_2;2;70;5;sp3_452;2;;Euphorbia hirta;Euphorbia hirta;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-santa-luzia;ruderal;native;
+45;11/abr;planting_bed;1;0;0;0;1;0;6;45_1;1;95;3;sp2_451;2;;Euphorbia hyssopifolia;Euphorbia hyssopifolia;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-andorinha;ruderal;native;
+3;13/mar;sidewalk;1;1;1;1;4;0;4;3_2;2;30;2;sp2_32;4;;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_4;4;100;5;sp1_124;;97;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp2_295;3;;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+34;07/abr;sidewalk;1;1;1;1;4;0;5;34_1;1;30;7;sp1_341;3;;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+35;08/abr;sidewalk;1;1;1;1;4;1;5;35_2;2;45;2;sp1_352;;45;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+121;10/abr;sidewalk;0;0;1;0;1;0;5;121_5;5;80;3;sp1_1215;1;;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+125;09/abr;sidewalk;1;1;1;1;4;0;4;125_2;2;50;2;sp1_1252;;45;Euphorbia milii;Euphorbia milii;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;coroa-de-cristo;ornamental;exotic;
+8;20/mar;sidewalk;1;0;1;1;3;0;4;8_3;3;25;5;sp4_83;5;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp3_84;3;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+12;28/mar;sidewalk;0;0;0;0;0;1;9;12_5;5;30;6;sp5_125;2;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+14;14/mar;garden;1;0;1;1;3;1;9;14_7;7;98;6;sp4_147;3;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+24;06/abr;sidewalk;0;0;0;0;0;0;4;24_1;1;15;5;sp4_241;5;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+24;06/abr;sidewalk;1;0;1;1;3;0;4;24_2;2;80;4;sp2_242;1;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+34;07/abr;sidewalk;1;0;1;0;2;0;5;34_2;2;57;6;sp4_342;3;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+35;08/abr;sidewalk;1;1;1;1;4;1;5;35_2;2;45;2;sp2_352;1;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+45;11/abr;planting_bed;1;0;1;1;4;0;6;45_2;2;70;5;sp4_452;2;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+51;03/abr;sidewalk;1;0;1;1;3;1;4;51_4;4;25;6;sp6_514;3;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_3;3;20;5;sp5_1213;1;;Euphorbia prostrata;Euphorbia prostrata;alien;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra-rasteira;ruderal;native;
+34;07/abr;planting_bed;1;0;1;1;3;0;5;34_4;4;20;5;sp3_344;1;;Euphorbia pulcherrima;Euphorbia pulcherrima;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;flor-de-papagaio;ornamental;cultivated;
+34;07/abr;sidewalk;1;1;1;1;4;0;5;34_1;1;30;7;sp2_341;1;;Evolvulus glomeratus;Evolvulus chamaepitys var. chamaepitys;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;azulzinha;ornamental;native;
+51;03/abr;sidewalk;1;1;1;1;4;0;4;51_3;3;48;2;sp2_513;;10;Ficus pumila;Ficus pumila;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;unha-de-gato;ornamental;cultivated;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp1_586;4;;Furcraea selloana;Furcraea selloa;alien;cultivated;cultivated;Non-native;cultivated;exotic;not endemic;#N/D;#N/D;piteira-do-caribe;ornamental;naturalized;
+3;13/mar;sidewalk;1;0;1;0;2;0;4;3_1;1;100;6;sp5_31;4;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp6_71;2;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp3_82;3;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp10_94;2;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+10;23/mar;square;1;0;0;0;1;0;5;10_3;3;85;6;sp3_103;6;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_4;4;100;5;sp5_124;4;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+12;28/mar;sidewalk;0;0;0;0;0;1;9;12_5;5;30;6;sp4_125;3;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_7;7;85;3;sp3_127;2;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+22;03/abr;square;1;0;0;0;1;0;6;22_4;4;100;6;sp2_224;2;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+33;08/abr;planting_bed;1;0;0;0;1;0;5;33_5;5;40;6;sp6_335;1;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+37;07/abr;sidewalk;1;0;1;1;3;0;5;37_4;4;50;4;sp4_374;1;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_3;3;55;5;sp4_583;7;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+102;04/abr;square;1;0;1;0;2;1;4;102_4;4;30;5;sp4_1024;2;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+124;09/abr;square;1;0;0;0;1;0;5;124_2;2;60;8;sp6_1242;1;;Galinsoga parviflora;Galinsoga parviflora;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;picão-branco;ruderal;naturalized;
+28;26/mar;sidewalk;1;0;1;1;3;1;6;28_1;1;70;6;sp3_281;2;;Gardenia jasminoides;Gardenia jasminoides;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;gardênia;ornamental;cultivated;perennial
+21;25/mar;planting_bed;1;1;1;1;4;0;5;21_2;2;23;4;sp4_212;;3;Paspalum notatum;Paspalum notatum;not_present;native;native;0;native;native;#N/D;#N/D;#N/D;lírio-amarelo;ornamental;cultivated;
+21;25/mar;square;1;0;1;1;3;0;5;21_4;4;45;6;sp3_214;;4;Paspalum notatum;Paspalum notatum;not_present;native;native;0;native;native;#N/D;#N/D;#N/D;lírio-amarelo;ornamental;cultivated;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp11_311;;1;Paspalum notatum;Paspalum notatum;not_present;native;native;0;native;native;#N/D;#N/D;#N/D;lírio-amarelo;ornamental;cultivated;
+102;04/abr;sidewalk;1;0;1;1;3;1;4;102_3;3;20;5;sp2_1023;1;;Heptapleurum arboricola;Heptapleurum arboricola;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;cheflera-pequena;ornamental;naturalized;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp5_311;1;;Hydrangea macrophylla;Hydrangea macrophylla;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;hortensia-branca;ornamental;cultivated;
+3;13/mar;sidewalk;1;0;1;0;2;0;4;3_1;1;100;6;sp3_31;;10;Hydrocotyle bonariensis;Hydrocotyle bonariensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-capitão;ornamental;native;perennial
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp3_122;;3;Hydrocotyle bonariensis;Hydrocotyle bonariensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-capitão;ornamental;native;perennial
+25;06/abr;traffic_circle;1;0;0;1;2;0;4;25_4;4;40;5;sp4_254;;5;Hydrocotyle bonariensis;Hydrocotyle bonariensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-capitão;ornamental;native;perennial
+31;26/mar;square;1;0;1;1;3;0;5;31_5;5;40;4;sp3_315;;3;Hydrocotyle bonariensis;Hydrocotyle bonariensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-capitão;ornamental;native;perennial
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_2;2;100;5;sp1_322;18;;Hydrocotyle bonariensis;Hydrocotyle bonariensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;erva-capitão;ornamental;native;perennial
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_8;8;100;4;sp4_128;;2;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+14;14/mar;sidewalk;1;0;0;1;2;0;9;14_2;2;75;5;sp5_142;;5;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+21;25/mar;square;1;0;1;1;3;0;5;21_4;4;45;6;sp5_214;;2;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+21;25/mar;sidewalk;1;0;1;1;3;0;5;21_5;5;100;5;sp5_215;;2;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+24;06/abr;planting_bed;1;0;1;1;3;0;4;24_3;3;98;5;sp1_243;;10;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp10_311;;18;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_4;4;15;5;sp1_444;;15;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp2_445;;10;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+50;11/abr;traffic_circle;1;0;1;1;3;0;4;50_4;4;38;6;sp4_504;;30;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+58;27/mar;sidewalk;1;0;1;0;2;1;6;58_2;2;35;4;sp1_582;;25;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp2_586;;2;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+102;04/abr;square;1;0;1;0;2;1;4;102_4;4;30;5;sp3_1024;;3;Hypoxis decumbens;Hypoxis decumbens;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;tiririca-amarela;ruderal;native;
+31;26/mar;sidewalk;1;1;1;1;4;0;5;31_2;2;100;1;sp1_312;;100;Ipomea obscura;Ipomoea obscura;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;gloria-da-manhã;ornamental;invasive;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp1_145;;5;Ipomoea cairica;Ipomoea cairica;invasive;native;native;0;native;native;not endemic;#N/D;#N/D;Ipomeia;ruderal;native;
+34;07/abr;sidewalk;1;1;1;1;4;0;5;34_1;1;30;7;sp3_341;2;;Iris domestica;Iris domestica;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;lírio-leopardo;ornamental;naturalized;
+22;03/abr;square;1;0;1;0;2;0;6;22_1;1;25;5;sp3_221;1;;Justicia gendarussa;Justicia gendarussa;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;abre-caminho;ornamental;cultivated;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp7_82;5;;Lepidium ruderale;Lepidium ruderale;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;mastruço;ruderal;invasive;
+7;23/mar;sidewalk;0;0;0;0;0;0;5;7_3;3;60;5;sp1_73;4;;Ludwigia octovalvis;Ludwigia octovalvis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;camarambaia;ornamental;native;
+26;04/abr;square;1;1;1;1;4;0;4;26_4;4;20;2;sp1_264;2;;Maranta arundinacea;Maranta arundinacea;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;araruta;ornamental;native;
+31;26/mar;sidewalk;1;1;1;1;4;0;5;31_3;3;80;3;sp3_313;;55;Maranta leuconeura;Maranta leuconeura;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;maranta barriga-de-sapo;ornamental;native;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_2;2;58;5;sp2_282;1;;Melinis repens;Melinis repens;#N/D;naturalized;naturalized;#N/D;naturalized;exotic;not endemic;#N/D;#N/D;capim-favorito;ruderal;naturalized;
+31;26/mar;sidewalk;0;0;0;0;0;0;5;31_4;4;60;6;sp1_314;6;;Melinis repens;Melinis repens;#N/D;naturalized;naturalized;#N/D;naturalized;exotic;not endemic;#N/D;#N/D;capim-favorito;ruderal;naturalized;
+35;08/abr;planting_bed;1;0;1;0;2;1;5;35_3;3;35;7;sp3_353;2;;Melinis repens;Melinis repens;#N/D;naturalized;naturalized;#N/D;naturalized;exotic;not endemic;#N/D;#N/D;capim-favorito;ruderal;naturalized;
+45;11/abr;planting_bed;1;0;0;0;1;0;6;45_1;1;95;3;sp1_451;10;;Melinis repens;Melinis repens;#N/D;naturalized;naturalized;#N/D;naturalized;exotic;not endemic;#N/D;#N/D;capim-favorito;ruderal;naturalized;
+3;13/mar;traffic_circle;1;0;1;0;2;0;4;3_4;4;25;5;sp4_34;;21;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+7;23/mar;square;1;0;1;1;3;0;5;7_4;4;75;5;sp1_74;;8;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+10;23/mar;sidewalk;1;1;1;1;4;0;5;10_4;4;38;3;sp1_104;;25;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha ;ornamental;exotic;
+28;26/mar;sidewalk;1;1;1;1;4;0;6;28_5;5;40;1;sp1_285;;5;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha ;ornamental;exotic;
+34;07/abr;planting_bed;1;0;1;1;3;0;5;34_5;5;90;3;sp2_345;;15;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+35;08/abr;planting_bed;1;0;1;0;2;1;5;35_3;3;35;7;sp4_353;;8;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+58;27/mar;sidewalk;1;0;1;0;2;1;6;58_2;2;35;4;sp2_582;;30;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_3;3;55;5;sp1_583;;48;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+58;27/mar;sidewalk;1;1;1;1;4;1;6;58_5;5;60;1;sp1_585;;50;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+125;09/abr;sidewalk;0;0;0;0;0;0;4;125_1;1;27;6;sp1_1251;;18;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+125;09/abr;sidewalk;1;1;1;1;4;0;4;125_2;2;50;2;sp2_1252;;30;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+125;09/abr;sidewalk;1;1;1;1;4;0;4;125_4;4;70;1;sp1_1254;;45;Mirabilis jalapa;Mirabilis jalapa;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;maravilha;ornamental;exotic;
+35;08/abr;square;1;0;0;0;1;1;5;35_4;4;25;4;sp4_354;1;;Mitracarpus hirtus;Mitracarpus hirtus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;poaia;ruderal;native;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_3;3;55;5;sp3_583;6;;Mitracarpus hirtus;Mitracarpus hirtus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;poaia;ruderal;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_2;2;60;8;sp7_1242;3;;Mitracarpus hirtus;Mitracarpus hirtus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;poaia;ruderal;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_3;3;38;5;sp5_1243;1;;Mitracarpus hirtus;Mitracarpus hirtus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;poaia;ruderal;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_4;4;30;6;sp2_1244;2;;Mitracarpus hirtus;Mitracarpus hirtus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;poaia;ruderal;native;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_7;7;85;3;sp1_127;1;;Murraya paniculata;Murraya paniculata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;murta-de-cheiro;ornamental;cultivated;
+102;04/abr;sidewalk;1;1;1;0;3;1;4;102_1;1;97;3;sp2_1021;1;;Murraya paniculata;Murraya paniculata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;murta-de-cheiro;ornamental;cultivated;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp1_71;2;;Neomarica caerulea;Trimezia coerulea;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;falso-íris;ornamental;native;
+26;04/abr;square;1;0;1;1;3;0;4;26_3;3;35;3;sp1_263;7;;Neomarica caerulea;Trimezia coerulea;not_present;native;native;0;native;native;Endemic;#N/D;#N/D;falso-íris;ornamental;native;
+22;03/abr;square;1;0;1;0;2;0;6;22_1;1;25;5;sp1_221;3;;Neomarica candida;Trimezia candida;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;lírio-da-praia;ornamental;native;
+4;13/mar;sidewalk;1;0;1;1;3;0;4;4_2;2;60;5;sp2_42;1;;Nopalea cochenillifera;Opuntia cochenillifera;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;palma-cacto;ornamental;naturalized;
+50;11/abr;square;1;0;0;0;1;0;4;50_2;2;38;7;sp4_502;;10;Oxalis triangularis;Oxalis triangularis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;trevo-roxo;ruderal;native;
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp1_102;2;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+10;23/mar;square;1;0;0;0;1;0;5;10_3;3;85;6;sp4_103;2;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp5_122;1;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_3;3;50;7;sp7_123;2;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+22;03/abr;square;1;0;1;0;2;0;6;22_3;3;98;6;sp5_223;1;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+22;03/abr;square;1;0;0;0;1;0;6;22_4;4;100;6;sp3_224;8;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+33;08/abr;planting_bed;1;0;0;0;1;0;5;33_5;5;40;6;sp3_335;2;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+51;03/abr;sidewalk;1;0;1;1;3;1;4;51_4;4;25;6;sp5_514;1;;Parthenium hysterophorus;Parthenium hysterophorus;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;losna-branca;ruderal;naturalized;
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp3_251;1;;Paspalum dilatatum;Paspalum dilatatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;capim-melado;ruderal;native;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp5_82;;2;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp6_84;;3;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+10;23/mar;square;1;0;0;0;1;0;5;10_3;3;85;6;sp5_103;2;;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+12;28/mar;traffic_circle;1;0;1;1;3;0;9;12_1;1;97;3;sp2_121;4;;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp2_122;;25;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+12;28/mar;sidewalk;0;0;0;0;0;1;9;12_5;5;30;6;sp2_125;;11;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+21;25/mar;square;1;0;1;1;3;0;5;21_4;4;45;6;sp6_214;2;;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+22;03/abr;square;1;0;1;0;2;0;6;22_3;3;98;6;sp1_223;;75;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+29;26/mar;sidewalk;1;0;1;1;3;0;5;29_4;4;95;4;sp4_294;3;;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+31;26/mar;square;1;0;1;1;3;0;5;31_5;5;40;4;sp2_315;;25;Paspalum fimbriatum;Paspalum fimbriatum;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;-;ruderal;native;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp9_71;;3;Paspalum notatum;Paspalum notatum;not_present;native;native;0;native;native;#N/D;#N/D;#N/D;grama-forquilha;ornamental;native;perennial
+10;23/mar;square;1;0;0;0;1;0;5;10_3;3;85;6;sp6_103;;3;Paspalum notatum;Paspalum notatum;not_present;native;native;0;native;native;#N/D;#N/D;#N/D;grama-forquilha;ornamental;native;perennial
+24;06/abr;planting_bed;1;0;1;1;3;0;4;24_3;3;98;5;sp5_243;;70;Paspalum notatum;Paspalum notatum;not_present;native;native;0;native;native;#N/D;#N/D;#N/D;grama-forquilha;ornamental;native;perennial
+22;03/abr;square;1;0;1;0;2;0;6;22_1;1;25;5;sp4_221;;3;Paspalum urvillei;Paspalum urvillei;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;capim-da-roça;ruderal;native;
+21;25/mar;square;1;0;1;1;3;0;5;21_4;4;45;6;sp2_214;2;;Pelargonium zonale;Pelargonium zonale;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;gerânio;ornamental;cultivated;
+3;13/mar;traffic_circle;1;0;1;0;2;0;4;3_4;4;25;5;sp3_34;3;;Peperomia obtusifolia;Peperomia obtusifolia;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;peperomia tradicional;ornamental;native;
+9;20/mar;planting_bed;1;0;1;1;3;0;4;9_1;1;15;4;sp2_91;2;;Pereskia aculeata;Pereskia aculeata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;ora pro nobis;ornamental;native;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp3_295;2;;Petiveria tetrandra;Petiveria alliacea var. tetrandra;not_present;naturalized;naturalized;;naturalized;exotic;#N/D;#N/D;#N/D;guiné;ornamental;naturalized;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp3_311;1;;Petiveria tetrandra;Petiveria alliacea var. tetrandra;not_present;naturalized;naturalized;;naturalized;exotic;#N/D;#N/D;#N/D;guiné;ornamental;naturalized;
+4;13/mar;sidewalk;1;0;1;1;3;0;4;4_2;2;60;5;sp1_42;1;;Philodendron acutatum;Philodendron quinquenervium;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;imbé;ornamental;native;
+28;26/mar;sidewalk;1;0;1;1;3;1;6;28_1;1;70;6;sp4_581;1;;Phormium tenax;Phormium tenax;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;formio;ornamental;cultivated;
+3;13/mar;sidewalk;1;0;1;1;3;0;4;3_3;3;50;7;sp1_33;12;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+8;20/mar;sidewalk;0;0;0;0;0;0;4;8_2;2;55;8;sp6_82;3;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_4;4;100;5;sp4_124;2;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_7;7;85;3;sp2_127;1;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_9;9;40;4;sp1_129;3;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_3;3;78;5;sp3_143;2;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+24;06/abr;sidewalk;0;0;0;0;0;0;4;24_1;1;15;5;sp5_241;4;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp6_251;1;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_3;3;48;7;sp7_293;3;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp7_295;2;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+28;26/mar;sidewalk;1;0;1;1;3;1;6;28_1;1;70;6;sp5_281;2;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+28;26/mar;sidewalk;1;0;0;0;1;1;6;28_2;2;35;5;sp1_282;18;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp6_311;8;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_2;2;100;5;sp4_322;1;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+37;07/abr;sidewalk;1;0;1;1;3;0;5;37_4;4;50;4;sp1_374;7;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_3;3;55;5;sp5_583;3;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp6_586;2;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+102;04/abr;sidewalk;1;0;1;1;3;1;4;102_3;3;20;5;sp5_1023;1;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+125;09/abr;sidewalk;0;0;0;0;0;0;4;125_1;1;27;6;sp5_1251;1;;Phyllanthus tenellus;Phyllanthus tenellus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;quebra-pedra;ruderal;exotic;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_9;9;40;4;sp3_129;3;;Phyllostachys aurea;Phyllostachys aurea;alien;cultivated;cultivated;Non-native;cultivated;exotic;not endemic;#N/D;#N/D;cana-da-índia;ornamental;cultivated;
+33;08/abr;planting_bed;1;0;1;1;3;0;5;33_2;2;27;3;sp2_332;3;;Pilea cadierei;Pilea cadierei;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;planta-alumínio;ornamental;naturalized;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp6_94;1;;Plantago major;Plantago major;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;tachagem;ruderal;invasive;
+24;06/abr;planting_bed;1;0;1;1;3;0;4;24_3;3;98;5;sp3_243;1;;Plantago major;Plantago major;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;tachagem;ruderal;invasive;
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp6_445;1;;Plantago major;Plantago major;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;tachagem;ruderal;invasive;
+51;03/abr;sidewalk;1;0;1;1;3;0;4;51_1;1;65;5;sp4_511;2;;Plantago major;Plantago major;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;tachagem;ruderal;invasive;
+7;23/mar;square;1;0;1;1;3;0;5;7_5;5;12;4;sp1_75;1;;Plectranthus barbatus;Coleus barbatus;alien;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;boldo-de-jardim;ornamental;cultivated;
+21;25/mar;sidewalk;1;0;1;1;3;0;5;21_5;5;100;5;sp2_215;2;;Plectranthus barbatus;Coleus barbatus;alien;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;boldo-de-jardim;ornamental;cultivated;
+37;07/abr;sidewalk;1;1;1;1;4;0;5;37_1;1;38;3;sp3_371;1;;Plectranthus barbatus;Coleus barbatus;alien;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;boldo-de-jardim;ornamental;cultivated;
+37;07/abr;traffic_circle;1;0;1;0;2;0;5;37_5;5;48;5;sp3_375;1;;Plectranthus barbatus;Coleus barbatus;alien;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;boldo-de-jardim;ornamental;cultivated;
+35;08/abr;planting_bed;1;0;1;0;2;1;5;35_3;3;35;7;sp1_353;;10;Plectranthus ornatus;Coleus comosus;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;boldo-do-chile;ornamental;exotic;
+37;07/abr;traffic_circle;1;0;1;1;3;0;5;37_2;2;75;3;sp1_372;;60;Plectranthus ornatus;Coleus comosus;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;boldo-do-chile;ornamental;cultivated;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp3_94;4;;Plectranthus verticillatus;Plectranthus verticillatus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;dólar;ornamental;exotic;
+21;25/mar;planting_bed;1;1;1;1;4;0;5;21_2;2;23;4;sp3_212;1;;Plectranthus verticillatus;Plectranthus verticillatus;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;dólar;ornamental;exotic;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_2;2;58;5;sp1_292;;40;Polygonum capitatum;Persicaria capitata;alien;naturalized;naturalized;;naturalized;exotic;#N/D;#N/D;#N/D;tapete-inglês;ruderal;naturalized;
+12;28/mar;planting_bed;1;0;1;0;2;1;9;12_4;4;100;5;sp2_124;1;;Porophyllum ruderale;Porophyllum ruderale;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;arnica-de-praia;ruderal;native;
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp9_251;1;;Porophyllum ruderale;Porophyllum ruderale;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;couvinha;ruderal;native;
+28;26/mar;sidewalk;0;0;0;0;0;0;6;28_6;6;50;5;sp5_286;1;;Porophyllum ruderale;Porophyllum ruderale;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;couvinha;ruderal;native;
+31;26/mar;sidewalk;0;0;0;0;0;0;5;31_4;4;60;6;sp5_314;1;;Porophyllum ruderale;Porophyllum ruderale;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;arnica-da-praia;ruderal;native;
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_1;1;20;2;sp2_321;1;;Porophyllum ruderale;Porophyllum ruderale;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;arnica-da-praia;ruderal;native;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp4_84;6;;Portulaca oleracea;Portulaca oleracea;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;beldroega;ruderal;naturalized;annual 
+51;03/abr;sidewalk;1;0;1;1;3;1;4;51_4;4;25;6;sp4_514;1;;Portulaca oleracea;Portulaca oleracea;alien;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;beldroega;ruderal;naturalized;annual 
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp1_311;1;;Rhododendron alabamense;Rhododendron alabamense;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;azaleia;ornamental;exotic;
+3;13/mar;sidewalk;1;0;1;1;3;0;4;3_3;3;50;7;sp5_33;1;;Rhododendron simsii;Rhododendron simsii;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;azaleia;ornamental;exotic;
+12;28/mar;square;1;1;1;1;4;0;9;12_6;6;100;2;sp2_126;8;;Richardia brasiliensis;Richardia brasiliensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;poaia-branca;ruderal;native;
+25;06/abr;sidewalk;1;0;0;1;2;0;4;25_3;3;40;6;sp2_253;2;;Richardia brasiliensis;Richardia brasiliensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;poaia-branca;ruderal;native;
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp4_586;1;;Richardia brasiliensis;Richardia brasiliensis;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;poaia-branca;ruderal;native;
+21;25/mar;square;1;0;1;1;3;0;5;21_4;4;45;6;sp1_214;1;;Rosa centifolia;Rosa × centifolia;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;rosa-de-cem-pétalas;ornamental;cultivated;
+37;07/abr;sidewalk;1;1;1;1;4;0;5;37_1;1;38;3;sp1_371;1;;Rosa chinensis;Rosa chinensis;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;rosa;ornamental;cultivated;
+4;13/mar;sidewalk;1;0;1;1;3;0;4;4_2;2;60;5;sp4_42;1;;Ruellia simplex;Ruellia simplex;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;petunia mexicana;ornamental;native;
+4;13/mar;sidewalk;1;0;1;0;2;0;4;4_3;3;50;7;sp2_43;5;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp10_71;2;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp1_94;1;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+21;25/mar;square;1;0;1;1;3;0;5;21_1;1;95;5;sp5_211;1;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+21;25/mar;sidewalk;1;0;1;1;3;0;5;21_5;5;100;5;sp3_215;2;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+22;03/abr;square;1;0;1;0;2;0;6;22_1;1;25;5;sp2_221;4;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+34;07/abr;planting_bed;1;0;1;1;3;0;5;34_4;4;20;5;sp2_344;2;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+37;07/abr;traffic_circle;1;0;1;0;2;0;5;37_5;5;48;5;sp5_375;1;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+121;10/abr;sidewalk;1;1;1;1;4;0;5;121_1;1;30;4;sp2_1211;1;;Sansevieria trifasciata;Dracaena trifasciata;invasive;cultivated;cultivated;Non-native;invasive;exotic;not endemic;#N/D;#N/D;espada-de-são-jorge;ornamental;invasive;
+22;03/abr;square;1;0;0;0;1;0;6;22_6;6;90;6;sp1_226;1;;Setaria parviflora;Setaria parviflora;alien;native;native;0;native;native;not endemic;#N/D;#N/D;capim-rabo-de-raposa;ruderal;native;
+32;10/abr;sidewalk;0;0;1;1;2;0;5;32_5;5;90;4;sp1_325;9;;Setaria parviflora;Setaria parviflora;alien;native;native;0;native;native;not endemic;#N/D;#N/D;capim-rabo-de-raposa;ruderal;native;
+9;20/mar;square;1;0;0;0;1;0;4;9_2;2;28;3;sp1_92;6;;Sida acuta;Sida acuta;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;malva-relógio;ruderal;native;
+33;08/abr;planting_bed;1;0;0;0;1;0;5;33_5;5;40;6;sp2_335;1;;Sida acuta;Sida acuta;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;malva-relógio;ruderal;native;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp8_71;2;;Sida rhombifolia;Sida rhombifolia;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;malva-preta;ruderal;native;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_3;3;48;7;sp2_293;1;;Sida rhombifolia;Sida rhombifolia;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;malva-preta;ruderal;native;
+31;26/mar;sidewalk;0;0;0;0;0;0;5;31_4;4;60;6;sp3_314;2;;Sida rhombifolia;Sida rhombifolia;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;malva-preta;ruderal;native;
+35;08/abr;sidewalk;0;0;0;0;0;1;5;35_1;1;55;3;sp3_351;1;;Sida rhombifolia;Sida rhombifolia;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;malva-preta;ruderal;native;
+33;08/abr;traffic_circle;1;0;0;0;1;0;5;33_1;1;100;3;sp3_331;1;;Sigesbeckia orientalis;Sigesbeckia orientalis;not_present;naturalized;naturalized;0;naturalized;exotic;not endemic;#N/D;#N/D;botão-de-ouro;ruderal;naturalized;
+24;06/abr;sidewalk;0;0;0;0;0;0;4;24_1;1;15;5;sp2_241;3;;Solanum americanum;Solanum americanum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;maria-pretinha;ruderal;native;
+50;11/abr;traffic_circle;1;0;1;1;3;0;4;50_4;4;38;6;sp6_504;4;;Soliva sessilis;Soliva sessilis;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;roseta;ruderal;native;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp5_84;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+9;20/mar;square;1;0;1;0;2;0;4;9_4;4;30;10;sp7_94;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_4;4;27;4;sp2_144;4;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+14;14/mar;garden;1;0;1;1;3;1;9;14_7;7;98;6;sp2_147;6;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp7_251;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+25;06/abr;sidewalk;1;0;0;1;2;0;4;25_3;3;40;6;sp4_253;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+25;06/abr;traffic_circle;1;0;0;1;2;0;4;25_4;4;40;5;sp3_254;2;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+31;26/mar;sidewalk;1;0;1;1;3;0;5;31_1;1;80;11;sp7_311;44;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+34;07/abr;sidewalk;1;0;1;0;2;0;5;34_2;2;57;6;sp2_342;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+35;08/abr;planting_bed;1;0;1;0;2;1;5;35_3;3;35;7;sp7_353;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+35;08/abr;square;1;0;0;0;1;1;5;35_4;4;25;4;sp2_354;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+44;25/mar;square;1;0;0;0;1;0;5;44_4;4;15;5;sp3_444;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp7_445;1;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+50;11/abr;square;1;0;0;0;1;0;4;50_2;2;38;7;sp2_502;3;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+50;11/abr;traffic_circle;1;0;1;1;3;0;4;50_4;4;38;6;sp3_504;4;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+58;27/mar;sidewalk;1;0;1;1;3;1;6;58_6;6;50;8;sp3_586;2;;Sonchus oleraceus;Sonchus oleraceus;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;serralha;ruderal;naturalized;annual 
+12;28/mar;street;0;0;0;0;0;1;9;12_2;2;100;8;sp4_122;;30;Sphagneticola trilobata;Sphagneticola trilobata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;mal-me-quer;ornamental;native;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_6;6;80;2;sp1_146;;75;Sphagneticola trilobata;Sphagneticola trilobata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;mal-me-quer;ornamental;native;
+7;23/mar;sidewalk;1;0;1;0;2;0;5;7_2;2;78;2;sp1_72;;75;Sphagneticola trilobata;Sphagneticola trilobata;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;mal-me-quer;ornamental;native;
+9;20/mar;planting_bed;1;0;1;1;3;0;4;9_1;1;15;4;sp3_91;4;;Sporobolus indicus;Sporobolus indicus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;capim-doce;ruderal;invasive;
+22;03/abr;square;1;0;1;0;2;0;6;22_1;1;25;5;sp5_221;4;;Sporobolus indicus;Sporobolus indicus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;campim-doce;ruderal;invasive;
+22;03/abr;sidewalk;1;0;0;0;1;0;6;22_2;2;28;3;sp2_222;1;;Sporobolus indicus;Sporobolus indicus;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;campim-doce;ruderal;invasive;
+21;25/mar;square;1;0;1;1;3;0;5;21_1;1;95;5;sp1_211;;85;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-de-jardim;ornamental;naturalized;
+32;10/abr;sidewalk;0;0;1;1;2;0;5;32_5;5;90;4;sp2_325;;20;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-santo_agostinho;ornamental;naturalized;
+34;07/abr;sidewalk;1;0;1;0;2;0;5;34_2;2;57;6;sp3_342;;10;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-de-jardim;ornamental;naturalized;
+45;11/abr;planting_bed;1;0;1;1;4;0;6;45_2;2;70;5;sp1_452;;60;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-santo_agostinho;ornamental;naturalized;
+45;11/abr;planting_bed;1;1;1;1;4;0;6;45_3;3;100;1;sp1_453;;100;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-santo_agostinho;ornamental;naturalized;
+45;11/abr;planting_bed;1;1;1;1;4;0;6;45_4;4;98;2;sp1_454;;75;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-santo_agostinho;ornamental;naturalized;
+50;11/abr;traffic_circle;1;0;1;1;3;0;4;50_4;4;38;6;sp2_504;;8;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-santo_agostinho;ornamental;naturalized;
+58;27/mar;square;1;0;1;1;3;1;6;58_1;1;100;4;sp4_581;;70;Stenotaphrum secundatum;Stenotaphrum secundatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;grama-santo_agostinho;ornamental;naturalized;
+26;04/abr;square;1;0;1;1;3;0;4;26_3;3;35;3;sp2_263;3;;Synedrella nodiflora;Synedrella nodiflora;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;botão-de-ouro;ruderal;invasive;
+28;26/mar;sidewalk;0;0;0;0;0;0;6;28_6;6;50;5;sp1_286;;30;Syngonium auritum;Syngonium auritum;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;sigônio;ornamental;native;
+7;23/mar;sidewalk;1;0;1;1;3;0;5;7_1;1;30;10;sp4_71;3;;Syngonium podophyllum;Syngonium podophyllum;alien;cultivated;cultivated;Non-native;naturalized;exotic;#N/D;#N/D;#N/D;sigônio;ornamental;cultivated;
+21;25/mar;planting_bed;1;1;1;1;4;0;5;21_2;2;23;4;sp1_212;6;;Syngonium podophyllum;Syngonium podophyllum;alien;cultivated;cultivated;Non-native;naturalized;exotic;#N/D;#N/D;#N/D;sigônio;ornamental;cultivated;
+21;25/mar;traffic_circle;1;1;1;1;4;0;5;21_3;3;18;6;sp1_213;2;;Syngonium podophyllum;Syngonium podophyllum;alien;cultivated;cultivated;Non-native;naturalized;exotic;#N/D;#N/D;#N/D;sigônio;ornamental;cultivated;
+24;06/abr;sidewalk;1;1;1;1;4;0;4;24_4;4;23;1;sp1_244;1;;Syngonium podophyllum;Syngonium podophyllum;alien;cultivated;cultivated;Non-native;naturalized;exotic;#N/D;#N/D;#N/D;sigônio;ornamental;cultivated;
+21;25/mar;traffic_circle;1;1;1;1;4;0;5;21_3;3;18;6;sp5_213;1;;Syngonium vellozianum;Syngonium podophyllum;alien;native;native;Non-native;native;native;not endemic;#N/D;#N/D;sigônio;ornamental;native;
+7;23/mar;square;1;0;1;1;3;0;5;7_5;5;12;4;sp4_75;7;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+10;23/mar;square;1;0;0;0;1;0;5;10_1;1;50;8;sp1_101;17;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+21;25/mar;sidewalk;1;0;1;1;3;0;5;21_5;5;100;5;sp4_215;1;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp4_295;1;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+31;26/mar;square;1;0;1;1;3;0;5;31_5;5;40;4;sp4_315;3;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+32;10/abr;sidewalk;1;1;1;1;4;0;5;32_3;3;85;2;sp2_323;2;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+34;07/abr;sidewalk;1;0;0;1;2;1;5;34_3;3;15;5;sp3_343;4;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+44;25/mar;square;1;0;0;0;1;0;5;44_5;5;48;8;sp1_445;8;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+50;11/abr;square;1;0;0;0;1;0;4;50_2;2;38;7;sp3_502;8;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+102;04/abr;square;1;0;1;0;2;1;4;102_4;4;30;5;sp1_1024;28;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+124;09/abr;square;1;0;0;0;1;0;5;124_2;2;60;8;sp2_1242;9;;Talinum paniculatum;Talinum paniculatum;not_present;native;native;0;native;native;not endemic;#N/D;#N/D;beldroegão;ornamental;native;
+28;26/mar;planting_bed;1;1;1;1;4;0;6;28_3;3;70;3;sp1_283;4;;Thaumatophyllum bipinnatifidum;Philodendron bipinnatifidum;not_present;native;native;;native;native;#N/D;#N/D;#N/D;Guaimbê;ornamental;native;
+31;26/mar;sidewalk;1;1;1;1;4;0;5;31_3;3;80;3;sp1_313;2;;Thaumatophyllum bipinnatifidum;Philodendron bipinnatifidum;not_present;native;native;;native;native;#N/D;#N/D;#N/D;Guaimbê;ornamental;native;
+35;08/abr;square;0;1;1;0;2;1;5;35_5;5;100;2;sp2_355;1;;Thunbergia alata;Thunbergia alata;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;maria-sem-vergonha;ornamental;naturalized;
+4;13/mar;sidewalk;1;0;1;1;3;0;4;4_2;2;60;5;sp3_42;1;;Tradescantia pallida var. purpurea;Tradescantia pallida;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;trapoeraba-roxa;ornamental;exotic;perennial
+7;23/mar;square;1;0;1;1;3;0;5;7_4;4;75;5;sp5_74;1;;Tradescantia pallida var. purpurea;Tradescantia pallida;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;trapoeraba-roxa;ornamental;exotic;perennial
+21;25/mar;planting_bed;1;1;1;1;4;0;5;21_2;2;23;4;sp2_212;3;;Tradescantia pallida var. purpurea;Tradescantia pallida;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;trapoeraba-roxa;ornamental;exotic;perennial
+34;07/abr;sidewalk;1;1;1;1;4;0;5;34_1;1;30;7;sp6_341;1;;Tradescantia pallida var. purpurea;Tradescantia pallida;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;trapoeraba-roxa;ornamental;exotic;perennial
+3;13/mar;traffic_circle;1;0;1;0;2;0;4;3_4;4;25;5;sp1_34;;15;Tradescantia zebrina var purpusii;Tradescantia zebrina;invasive;naturalized;naturalized;Non-native;invasive;exotic;#N/D;#N/D;#N/D;lambari-roxo;ornamental;invasive;
+9;20/mar;planting_bed;1;0;1;1;3;0;4;9_1;1;15;4;sp1_91;1;;Tradescantia zebrina var purpusii;Tradescantia zebrina;invasive;naturalized;naturalized;Non-native;invasive;exotic;#N/D;#N/D;#N/D;lambari-roxo;ornamental;invasive;
+26;04/abr;square;1;1;1;1;4;0;4;26_4;4;20;2;sp2_264;3;;Tradescantia zebrina var purpusii;Tradescantia zebrina;invasive;naturalized;naturalized;Non-native;invasive;exotic;#N/D;#N/D;#N/D;lambari-roxo;ornamental;invasive;
+58;27/mar;sidewalk;1;1;1;1;4;1;6;58_4;4;100;4;sp4_584;4;;Tradescantia zebrina var purpusii;Tradescantia zebrina;invasive;naturalized;naturalized;Non-native;invasive;exotic;#N/D;#N/D;#N/D;lambari-roxo;ornamental;invasive;
+124;09/abr;sidewalk;0;1;1;0;2;0;5;124_5;5;40;2;sp1_1245;;40;Tradescantia zebrina var purpusii;Tradescantia zebrina;invasive;naturalized;naturalized;Non-native;invasive;exotic;#N/D;#N/D;#N/D;lambari-roxo;ornamental;invasive;
+31;26/mar;sidewalk;0;0;0;0;0;0;5;31_4;4;60;6;sp2_314;4;;Tridax procumbens;Tridax procumbens;alien;native;native;0;native;native;not endemic;#N/D;#N/D;erva-de-touro;ruderal;naturalized;
+58;27/mar;sidewalk;1;1;1;1;4;1;6;58_4;4;100;4;sp3_584;2;;Trimezia coerulea;Trimezia coerulea;not_present;cultivated;cultivated;;cultivated;exotic;#N/D;#N/D;#N/D;íris-da-praia;ornamental;native;
+8;20/mar;sidewalk;1;1;1;1;4;0;4;8_1;1;65;3;sp2_81;1;;Trimezia gracilis;Trimezia gracilis;not_present;native;native;;native;native;#N/D;#N/D;#N/D;lírio borboleta;ornamental;native;
+102;04/abr;sidewalk;1;1;1;0;3;1;4;102_1;1;97;3;sp1_1021;6;;Trimezia gracilis;Trimezia gracilis;not_present;native;native;;native;native;#N/D;#N/D;#N/D;lírio borboleta;ornamental;native;
+34;07/abr;sidewalk;1;1;1;1;4;0;5;34_1;1;30;7;sp5_341;2;;Turnera ulmifolia;Turnera ulmifolia;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;chanana;ornamental;cultivated;
+9;20/mar;sidewalk;0;0;1;0;1;0;4;9_3;3;18;2;sp1_93;;6;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+22;03/abr;square;1;0;0;0;1;0;6;22_6;6;90;6;sp5_226;;20;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+25;06/abr;sidewalk;1;0;0;1;2;0;4;25_3;3;40;6;sp1_253;;18;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+26;04/abr;sidewalk;0;0;0;0;0;1;4;26_2;2;27;3;sp2_262;;3;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_3;3;48;7;sp5_293;;5;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+29;26/mar;sidewalk;1;0;1;0;2;0;5;29_5;5;55;7;sp5_295;;3;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+33;08/abr;sidewalk;1;0;0;1;2;0;5;33_4;4;12;2;sp1_334;;2;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+35;08/abr;square;1;0;0;0;1;1;5;35_4;4;25;4;sp1_354;;25;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+37;07/abr;square;1;0;1;1;3;0;5;37_3;3;18;4;sp2_373;;10;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+44;25/mar;square;1;0;0;0;1;0;5;44_2;2;100;6;sp5_442;;15;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+124;09/abr;square;1;0;0;0;1;0;5;124_2;2;60;8;sp1_1242;;5;Urochloa brizantha;Urochloa brizantha;invasive;naturalized;naturalized;Non-native;invasive;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+37;07/abr;traffic_circle;1;0;1;0;2;0;5;37_5;5;48;5;sp1_375;;15;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+124;09/abr;square;1;0;0;0;1;0;5;124_4;4;30;6;sp1_1244;;2;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+9;20/mar;square;1;0;0;0;1;0;4;9_2;2;28;3;sp2_92;;10;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+10;23/mar;square;1;0;0;0;1;0;5;10_2;2;100;9;sp7_102;;15;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+14;14/mar;sidewalk;1;0;0;1;2;0;9;14_2;2;75;5;sp2_142;;20;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_5;5;95;8;sp5_145;;5;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+14;14/mar;sidewalk;1;0;1;1;3;0;9;14_8;8;100;3;sp1_148;;6;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+14;14/mar;sidewalk;1;0;1;0;2;0;9;14_9;9;100;3;sp2_149;;2;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+22;03/abr;sidewalk;1;0;0;0;1;0;6;22_2;2;28;3;sp1_222;;25;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+22;03/abr;square;1;0;1;0;2;0;6;22_3;3;98;6;sp2_223;;2;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+22;03/abr;square;1;0;0;0;1;0;6;22_4;4;100;6;sp6_224;;3;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+22;03/abr;sidewalk;1;0;0;0;1;0;6;22_5;5;100;1;sp1_225;;100;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+22;03/abr;square;1;0;0;0;1;0;6;22_6;6;90;6;sp2_226;;12;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+24;06/abr;planting_bed;1;0;1;1;3;0;4;24_3;3;98;5;sp4_243;;8;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+25;06/abr;sidewalk;1;0;0;0;1;1;4;25_1;1;25;9;sp2_251;;18;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+33;08/abr;traffic_circle;1;0;0;0;1;0;5;33_1;1;100;3;sp1_331;;45;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+44;25/mar;planting_bed;1;0;0;0;1;0;5;44_1;1;75;6;sp2_441;;5;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiaria;ruderal;invasive;
+50;11/abr;planting_bed;1;0;1;1;3;0;4;50_1;1;45;5;sp1_501;;12;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+121;10/abr;sidewalk;0;0;0;0;0;0;5;121_3;3;20;5;sp2_1213;;18;Urochloa decumbens;Urochloa eminii;alien;naturalized;naturalized;Non-native;naturalized;exotic;not endemic;#N/D;#N/D;braquiária;ruderal;invasive;
+4;13/mar;sidewalk;1;0;1;0;2;0;4;4_3;3;50;7;sp7_43;1;;Urochloa platyphylla;Urochloa platyphylla;alien;naturalized;naturalized;;naturalized;exotic;#N/D;#N/D;#N/D;capim-marmelada;ruderal;naturalized;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_2;2;58;5;sp4_292;1;;Vernonanthura tweedieana;Vernonanthura tweedieana;not_present;native;native_BR;;native_BR;native;#N/D;#N/D;#N/D;assa-peixe;ornamental;native;
+29;26/mar;sidewalk;0;0;0;0;0;0;5;29_2;2;58;5;sp5_292;1;;Vernonanthura tweedieana;Vernonanthura tweedieana;not_present;native;native_BR;;native_BR;native;#N/D;#N/D;#N/D;samambaia-chinesa;ornamental;invasive;
+34;07/abr;planting_bed;1;0;1;1;3;0;5;34_4;4;20;5;sp1_344;1;;Xanthosoma taioba;Xanthosoma taioba;not_present;native;native_BR;0;native_BR;native;not endemic;#N/D;#N/D;taioba;ornamental;native;
+8;20/mar;sidewalk;0;0;1;0;1;0;4;8_4;4;80;9;sp8_84;1;;Yucca gigantea;Yucca gigantea;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;Iuca;ornamental;exotic;
+125;09/abr;sidewalk;0;0;0;0;0;0;4;125_1;1;27;6;sp2_1251;;10;Zoysia japonica;Zoysia japonica;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;grama-esmeralda;ornamental;cultivated;
+12;28/mar;square;1;1;1;1;4;0;9;12_6;6;100;2;sp1_126;;100;Zoysia matrella;Zoysia matrella;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;grama-buchinho;ornamental;cultivated;
+12;28/mar;planting_bed;1;0;1;1;3;0;9;12_8;8;100;4;sp2_128;;9;Zoysia matrella;Zoysia matrella;not_present;cultivated;cultivated;0;cultivated;exotic;not endemic;#N/D;#N/D;grama-buchinho;ornamental;cultivated;
