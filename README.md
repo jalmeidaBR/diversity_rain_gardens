@@ -6,6 +6,7 @@ Here you will find the following documents:
 script_chapter_I_JWA.R – R script containing all statistical analyses described in the paper, including diversity index calculations, model selection (exploratory and final), and graphs.
 
 In the script, you will find the input specifications, also available in the folder:
+
 plant_diversity_ADJ.csv – Data collected in adjacent areas;
 plant_diversity_RG.csv – Data collected in rain gardens;
 models_data.csv – Explanatory and response variables organized for model analysis;
