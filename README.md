@@ -9,7 +9,7 @@ Supplementary_table_1.csv – List of plant species identified in the study, inc
 
 Supplementary_table_2.csv – Biodiversity indices calculated for each sampled rain garden, organized by area and biogeographic origin.
 
-Supplementary_table_3.csv (TS3) – Location of rain gardens in São Paulo according to the SMSUB list, and exclusion criteria applied for the selection of sampling units.
+Supplementary_table_3.csv – Location of rain gardens in São Paulo according to the SMSUB list, and exclusion criteria applied for the selection of sampling units.
 
 script_chapter_I_JWA.R – R script containing all statistical analyses described in the paper, including diversity index calculations, model selection (exploratory and final), and graphs.
 
